@@ -1,0 +1,14 @@
+scheduler.c:18:13:ready_push	16	static
+scheduler.c:25:16:ready_pop	16	static
+scheduler.c:33:13:list_insert	24	static
+scheduler.c:50:16:list_remove	24	static
+scheduler.c:67:13:slot_free	16	static
+scheduler.c:78:6:SCH_Init	16	static
+scheduler.c:93:6:SCH_Update	16	static
+scheduler.c:107:10:SCH_Add_Task	32	static,ignoring_inline_asm
+scheduler.c:139:9:SCH_Delete_Task	24	static,ignoring_inline_asm
+scheduler.c:164:6:SCH_Dispatch_Tasks	24	static,ignoring_inline_asm
+scheduler.c:199:10:get_time	4	static
+scheduler.c:204:6:SCH_Report_Status	4	static
+scheduler.c:208:6:SCH_Go_To_Sleep	4	static
+scheduler.c:212:6:HAL_TIM_PeriodElapsedCallback	16	static

@@ -1,0 +1,2 @@
+uart_print.c:9:6:print_text	16	static
+uart_print.c:14:6:print_time	96	static

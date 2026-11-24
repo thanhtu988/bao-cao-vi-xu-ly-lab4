@@ -1,0 +1,5 @@
+led_task.c:5:6:LED1_Toggle	8	static
+led_task.c:11:6:LED2_Toggle	8	static
+led_task.c:17:6:LED3_Toggle	8	static
+led_task.c:23:6:LED4_Toggle	8	static
+led_task.c:29:6:LED5_Toggle	8	static
